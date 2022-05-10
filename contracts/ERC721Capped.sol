@@ -35,7 +35,7 @@ contract ERC721Capped is ERC721 {
         //TODO
     }
 
-    function closeSales() public onlyOwner {
+    function closeSales() public {
         //TODO
     }
 }
